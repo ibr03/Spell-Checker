@@ -5,7 +5,7 @@
 A program that spell-checks a file using a hash table implemented in C. 
 This program was part of the problem sets from CS50x: Introduction to Computer Science by Harvard University.
 
-## Coding Files
+## Code Files
 
 ### dictionary.c
 
