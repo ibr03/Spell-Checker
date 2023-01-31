@@ -33,10 +33,6 @@ Ultimately, each misspelling will be reported in that file along with a bunch of
 
 Within the default dictionary (large.txt) are 143,091 words, all of which must be loaded into memory.
 
-### texts
-
-Bunch of text files for testing the speller.c program.
-
 ### Makefile
 
 A configuration file that tells make exactly what to do. Program will be compiled with executing command 'make speller'.
